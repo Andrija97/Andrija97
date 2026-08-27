@@ -1,16 +1,82 @@
-## Hi there 👋
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ▄▄▄       ███▄ ▄███▓ ▄▄▄       ▄▄▄█████▓ ██▀███   ██▓     ║
+║  ▒████▄     ██▒▀█▀  ██▒▒████▄    ▓  ██▒ ▓▒▓██ ▒ ██▒▓██▒     ║
+║  ▒██  ▀█▄  ▓██    ▓██░▒██  ▀█▄  ▒ ▓██░ ▒░▓██ ░▄█ ▒▒██░     ║
+║  ░██   █▌  ▒██    ▒██ ░██▄▄▄▄██ ░ ▓██▓ ░ ▒██▀▀█▄  ▒██░     ║
+║  ░▓█▄   ▌  ▒██▒   ░██▒ ▓█   ▓██▒  ▒██▒ ░ ░██▓ ▒██▒░██████▒ ║
+║  ░▒████▓   ░ ▒░   ░  ░ ▒▒   ▓▒█░  ▒ ░░   ░ ▒▓ ░▒▓░░ ▒░▓  ░ ║
+║   ▒▒▓  ▒   ░  ░      ░  ▒   ▒▒ ░    ░      ░▒ ░ ▒░░ ░ ▒  ░ ║
+║   ░ ▒  ░   ░      ░     ░   ▒     ░        ░░   ░   ░ ░      ║
+║   ░ ░             ░         ░  ░   ░        ░       ░  ░  ░   ║
+║   ░                                                           ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<!--
-**Andrija97/Andrija97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to the Matrix 🤖
 
-Here are some ideas to get you started:
+```
+     0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+    1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
+   0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+  1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
+ 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+
+- 💻 **Currently hacking on:** Cool projects in the digital realm
+- 🚀 **Always learning:** New technologies & coding paradigms  
+- 🎯 **Passionate about:** Building amazing things
+- 📡 **Let's connect:** Ideas, code, and collaboration
+
+---
+
+### ⚡ Tech Stack
+
+```
+╔════════════════════════════════════════╗
+║ Languages | Tools | Frameworks        ║
+║────────────────────────────────────────║
+║ > echo "Ready to build something cool" ║
+║ > _                                    ║
+╚════════════════════════════════════════╝
+```
+
+---
+
+### 🔮 Matrix Facts
+
+```
+┌─────────────────────────────────────┐
+│  "All I'm offering is the truth"    │
+│  - Morpheus                         │
+└─────────────────────────────────────┘
+```
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://img.shields.io/badge/Code-Active-success?style=for-the-badge)
+![Matrix Mode](https://img.shields.io/badge/Mode-Matrix-00ff00?style=for-the-badge)
+
+---
+
+### 🎬 Currently Executing
+
+```
+████░░░░░░░░░░░░░░░░ 25% [Building...]
+```
+
+---
+
+<div align="center">
+
+**The code is everywhere. It's all around us.**
+
+`Feel free to explore my repositories below! 👇`
+
+</div>
