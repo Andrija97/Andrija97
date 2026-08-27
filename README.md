@@ -1,36 +1,27 @@
-## 👽 Andrija97 - Incoming Transmission 👽
-
 ```
-🔴 ALIEN ENCOUNTER DETECTED 🔴
-
-    Frame 1:
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░█ ▀ █░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░█  V  █░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░█   █░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-    Frame 2:
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░█ ▀ █░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░█  V  █░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░█   █░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-    🎮 INVADERS INCOMING! 🎮
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║                    ███╗   ██╗███████╗ ██████╗                ║
+║                    ████╗  ██║██╔════╝██╔═══██╗               ║
+║                    ██╔██╗ ██║█████╗  ██║   ██║               ║
+║                    ██║╚██╗██║██╔══╝  ██║   ██║               ║
+║                    ██║ ╚████║███████╗╚██████╔╝               ║
+║                    ╚═╝  ╚═══╝╚══════╝ ╚═════╝                ║
+║                                                               ║
+║              [ THE ONE ] [ CODE ARCHITECT ]                  ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
----
+## Welcome to the Matrix 🤖
 
 ```
-╔══════════════════════════════════════════════╗
-║   👽 INCOMING TRANSMISSION FROM ANDRIJA97 👽 ║
-╚══════════════════════════════════════════════╝
+     0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+    1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
+   0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+  1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
+ 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1
+1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0
 ```
 
 ### 🌟 About Me
@@ -55,48 +46,36 @@
 
 ---
 
-### 👽 Alien Invasion Stats
+### 🔮 Matrix Facts
 
 ```
 ┌─────────────────────────────────────┐
-│  🔴 ALERT: Developer Active 🔴      │
-│  📊 Status: Ready for Battle        │
-│  🎮 Game Mode: Always ON            │
+│  "All I'm offering is the truth"    │
+│  - Morpheus                         │
 └─────────────────────────────────────┘
 ```
 
 ---
 
-### 🎬 Defense Systems
+### 📊 GitHub Stats
 
-```
-████░░░░░░░░░░░░░░░░ 25% [Charging...]
-```
-
-**Wave 1:** 🎯 ███░░░░░░░░░░░ Complete!  
-**Wave 2:** 🎮 ██████░░░░░░░░░ In Progress  
-**Wave 3:** ⚡ ░░░░░░░░░░░░░░░░ Incoming!
+![GitHub Stats](https://img.shields.io/badge/Code-Active-success?style=for-the-badge)
+![Matrix Mode](https://img.shields.io/badge/Mode-Matrix-00ff00?style=for-the-badge)
 
 ---
 
-### 🚀 Firepower
+### 🎬 Currently Executing
 
-> **"In space, no one can hear you debug"** 👽
+```
+████░░░░░░░░░░░░░░░░ 25% [Building...]
+```
 
 ---
 
 <div align="center">
 
-**✨ WELCOME TO THE ARCADE ✨**
+**The code is everywhere. It's all around us.**
 
-`Explore my repositories below - Let's build legendary code! 🎮👾`
-
----
-
-```
-     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-    ◀  GAME OVER?  ▶
-     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-```
+`Feel free to explore my repositories below! 👇`
 
 </div>
