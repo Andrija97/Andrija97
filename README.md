@@ -32,9 +32,9 @@ I focus on problem solving, clean code, and continuous development as a programm
 </div>
 
 ### Connect
-- LinkedIn: [your-link]
-- Email: [your-email]
-- Portfolio: [your-portfolio]
+- LinkedIn: [¿]
+- Email: [¿]
+- Portfolio: [¿]
 
 ---
 
